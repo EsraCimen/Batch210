@@ -10,6 +10,7 @@ public class Bus {
         this.numberPlate=plaka;
         for (int i = 1; i <=32; i++) {
             this.seats.add(String.valueOf(i));
+
         }
     }
 }

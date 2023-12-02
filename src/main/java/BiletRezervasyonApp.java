@@ -54,6 +54,7 @@ public class BiletRezervasyonApp {
             System.out.println("2. Gidiş-Dönüş");
             int type= scan.nextInt();
 
+
             System.out.println("Koltuk no seçiniz : ");
             System.out.println("Tekli koltuk ücreti %20 daha fazladır.");
             System.out.println(bus.seats);//mevcut koltuk nolari: 1,2,4,5
