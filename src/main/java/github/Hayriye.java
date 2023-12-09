@@ -6,6 +6,7 @@ public class Hayriye {
 
         System.out.println(".............");
         System.out.println("versiyon 5 deneme");
+        System.out.println("versiyon deneme 6");
 
     }
 }
