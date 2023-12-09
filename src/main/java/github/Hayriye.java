@@ -5,6 +5,7 @@ public class Hayriye {
         System.out.println("Hello batch");
 
         System.out.println(".............");
+        System.out.println("versiyon 5 deneme");
 
     }
 }
